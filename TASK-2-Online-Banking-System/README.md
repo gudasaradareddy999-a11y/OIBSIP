@@ -16,3 +16,5 @@ This project is a GUI-based Online Banking System developed using Python and Tki
 - Python
 - Tkinter
 
+- ![Output 2](output2.png)
+
