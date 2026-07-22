@@ -18,3 +18,5 @@ Develop a two-player Tic Tac Toe game in Python.
 2. Open a terminal.
 3. Run:
    python main.py
+
+   ![output](output1.png)
