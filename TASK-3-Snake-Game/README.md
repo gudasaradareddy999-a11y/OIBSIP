@@ -42,7 +42,7 @@ A simple Snake Game built with **Python** and **Tkinter**. Control the snake, ea
 ## 👨‍💻 Author
 
 **Guda Sarada Reddy**
-![Output](TASK-3-Snake-Game/snakegame_output.png)
+(snakegame output.png)
 
 
 
