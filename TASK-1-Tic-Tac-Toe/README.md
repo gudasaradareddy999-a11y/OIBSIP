@@ -37,3 +37,5 @@ TASK-1-Tic-Tac-Toe/
 
 ## 📜 License
 This project is created for learning and educational purposes.
+##Author
+Guda Sarada Reddy
