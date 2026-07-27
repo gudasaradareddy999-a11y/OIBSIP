@@ -39,10 +39,8 @@ A simple Snake Game built with **Python** and **Tkinter**. Control the snake, ea
 
 ---
 
-## 👨‍💻 Author
 
-**Guda Sarada Reddy**
-(snakegame output.png)
+output3.png
 
 
 
