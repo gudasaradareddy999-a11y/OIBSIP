@@ -20,3 +20,5 @@ Develop a two-player Tic Tac Toe game in Python.
    python main.py
 
    ![output](output1.png)
+   ## Author
+Guda Sarada Reddy
