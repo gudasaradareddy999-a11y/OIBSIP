@@ -23,22 +23,6 @@ TASK-1-Tic-Tac-Toe/
 │── README.md
 ```
 
-## ▶️ How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/your-repository.git
-```
-
-2. Navigate to the project folder:
-```bash
-cd TASK-1-Tic-Tac-Toe
-```
-
-3. Run the game:
-```bash
-python main.py
-```
 
 ## 📸 Output
 
