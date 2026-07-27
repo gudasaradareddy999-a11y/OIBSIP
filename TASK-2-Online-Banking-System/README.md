@@ -17,4 +17,6 @@ This project is a GUI-based Online Banking System developed using Python and Tki
 - Tkinter
 
 - ![Output 2](output2.png)
+- ## Author
+Guda Sarada Reddy
 
