@@ -35,12 +35,10 @@ A simple Snake Game built with **Python** and **Tkinter**. Control the snake, ea
 - Restart Button
 - High Score System
 - Sound Effects
-- Different Difficulty Levels
+- Different Difficulty Level
+- ## Output
 
----
-
-
-output3.png
+![Snake Game Output](output3.png)
 
 
 
