@@ -43,5 +43,5 @@ A simple Snake Game built with **Python** and **Tkinter**. Control the snake, ea
 
 **Guda Sarada Reddy**
 
-GitHub: https://github.com/your-username
+GitHub: TASK-3-Snake-Game/README.md
 
